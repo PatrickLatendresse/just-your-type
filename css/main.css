@@ -36,6 +36,7 @@ strong {
   border-bottom: 2px solid #fff;
   border-left: 2px solid #fff;
   border-right: 2px solid #fff;
+  align-items: center;
 }
 
 .container2 {
