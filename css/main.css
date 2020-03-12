@@ -47,29 +47,48 @@ strong {
 
 @media only screen and (min-width: 25em) {
 
-  .container {
-    text-align: center;
+  .quote1 {
+    color: #fff;
+  }
+
+  .quote2 {
+    color: #ff7676;
   }
 
 }
 
 @media only screen and (min-width: 38em) {
 
-  .container {
+  .quote1 {
+    color: #ff7676;
+  }
+
+  .quote2 {
+    color: #fff;
   }
 
 }
 
 @media only screen and (min-width: 60em) {
 
-  .container {
+  .quote1 {
+    color: #fff;
+  }
+
+  .quote2 {
+    color: #ff7676;
   }
 
 }
 
 @media only screen and (min-width: 90em) {
 
-  .container {
+  .quote1 {
+    color: #ff7676;
+  }
+
+  .quote2 {
+    color: #fff;
   }
 
 }
